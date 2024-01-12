@@ -1,5 +1,5 @@
-# Projet data mining  
-#### Sujet : Triage des patients aux urgences
+# Data Mining Project 
+#### Sujet : Hospital Admission Prediction
  BUT SD 23-24
 
 #### Reference
